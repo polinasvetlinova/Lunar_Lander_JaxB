@@ -42,10 +42,7 @@ public class LeerXml extends HttpServlet {
 
         } catch (Exception e) {
             
-            response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
-            response.setContentType("application/json");
-            PrintWriter pw = response.getWriter();
-            pw.println("{\"error\":\"Ha sido imposible recuperar los datos\"}");
+          
 
         }
 
