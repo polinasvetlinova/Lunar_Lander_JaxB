@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuraciones>
+    <config>
+        <id>0</id>
+        <nom>poli</nom>
+		<dificultad>1</dificultad>
+        <nave>2</nave>
+        <luna>1</luna>
+    </config>
+	<config>
+		<id>1</id>
+		<nom>roni</nom>
+		<dificultad>1</dificultad>
+		<nave>2</nave>
+		<luna>2</luna>
+	</config>
+</configuraciones>

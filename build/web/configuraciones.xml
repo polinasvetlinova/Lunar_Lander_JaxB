@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuraciones>
+    <config>
+        <id>0</id>
+        <nom>poli</nom>
+        <dificultad>1</dificultad>
+        <nave>2</nave>
+        <luna>1</luna>
+    </config>
+    <config>
+        <id>1</id>
+        <nom>roni</nom>
+        <dificultad>1</dificultad>
+        <nave>2</nave>
+        <luna>2</luna>
+    </config>
+    <config>
+        <id>2</id>
+        <nom>plom</nom>
+        <dificultad>2</dificultad>
+        <nave>2</nave>
+        <luna>2</luna>
+    </config>
+    <config>
+        <id>3</id>
+        <nom>puuuu</nom>
+        <dificultad>3</dificultad>
+        <nave>1</nave>
+        <luna>1</luna>
+    </config>
+</configuraciones>
